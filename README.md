@@ -64,6 +64,9 @@ mypy .
 
 # Run exercise demonstrations
 python3 ex0/space_station.py
+
 python3 ex1/alien_contact.py
+
 python3 ex2/space_crew.py
+
 
