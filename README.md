@@ -59,6 +59,7 @@ pip install pydantic mypy flake8
 
 # Linting & Type Checking
 flake8 .
+
 mypy .
 
 # Run exercise demonstrations
